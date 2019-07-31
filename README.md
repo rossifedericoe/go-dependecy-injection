@@ -6,7 +6,7 @@ Pet project, testing wire
 * Google Wire (https://github.com/google/wire)
 
 # Domain
-There's a "Car" and "Bike" entities, and each domain defines an interface: CarService and BikeService.
+There's "Car" and "Bike" entities, and each domain defines an interface: CarService and BikeService.
 
 # DI
 The gin engine is wrapped into a struct that receives all the dependencies resolved from wire.
